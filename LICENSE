@@ -672,3 +672,15 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+SlimeVR Reset Timer - License
+This project is licensed under the terms of the GNU General Public License v3.0.
+
+PyQt5 License
+This project uses PyQt5, which is licensed under the GNU General Public License v3.0. You can find more about PyQt5 licensing here: https://www.riverbankcomputing.com/static/Docs/PyQt5/gpl_license.html
+
+pynput License
+This project uses pynput, which is licensed under the BSD 3-Clause License. The full text of the pynput license can be found here: https://github.com/moses-palmer/pynput/blob/master/LICENSE
+
+psutil License
+This project uses psutil, which is licensed under the BSD 3-Clause License. The full text of the psutil license can be found here: https://github.com/giampaolo/psutil/blob/master/LICENSE
